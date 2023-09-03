@@ -156,3 +156,118 @@ Go to the Network section and make sure virtual network says -vnet, subnet says 
 Go to the Review and Create tab and let the Validation passed.
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/97bb4626-02ce-48b9-b391-59ef3b23e13f"/>
+</p>
+<p>
+Next the deployment commence its progess
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/2d646e28-fd87-4c87-a38a-0741168be378"/>
+</p>
+<p>
+Next the deployment will finish the progess
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/12aaa2f7-2ef5-4eac-9172-e36f81d264a4"/>
+</p>
+<p>
+Type Vritual Machine in the search bar, and you will see VM1 and VM2.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/2ea080a7-0694-4ef1-a24e-dfeea8ca4af7"/>
+</p>
+<p>
+Click on VM1 and copy the public IP
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/c106b2a5-62f7-4a33-9ae2-508163e42aa0"/>
+</p>
+<p>
+Go to your search bar and type Remote Desktop Connection
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/30347048-54d0-41bb-b138-28afd05eaf38"/>
+</p>
+<p>
+Next paste the IP address in the computer section and click connect
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/e977dbab-0dd1-463c-af65-e31fbb8c848f"/>
+</p>
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/bb1a574e-62fe-405e-9865-af299935df37"/>
+</p>
+<p>
+In the username section type labuser then in the password section type the password you created for VM1
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/b42fa5f1-9ca4-4179-b82a-bece3a1339c7"/>
+</p>
+<p>
+Next the identity tab should open, click yes to let the VM load
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/e9ab0823-f7d4-4770-9ef4-7575888c8ad8"/>
+</p>
+<p>
+Once the VM loads click no for the following in the iamge above
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/e2e59220-569f-4713-a085-9fd3ad929575"/>
+</p>
+<p>
+A Network tab should open click yes 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/ccb38d24-b47c-4d88-9ef8-564a9b75f0a7"/>
+</p>
+<p>
+Open microsoft excel and click start without your data
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/6d0fbfcf-090d-4407-a52d-10a48218677c"/>
+</p>
+<p>
+Next click continue without this data
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/5211cfd5-2ca7-40db-8911-ae403adb65fc"/>
+</p>
+<p>
+Next click confirm and continue
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/ca7fc9cf-d18f-40ed-a40b-4a06dfcf05c4"/>
+</p>
+<p>
+Next to finish click confirm and start browsing 
+</p>
+<br />
