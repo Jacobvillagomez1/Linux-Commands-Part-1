@@ -83,3 +83,76 @@ For the Resource Group click the one we created rg-01, for the name we can put V
 Now under Size needs to be Standard E2, Username for this example wil be called labuser, the Password needs to be long and unique. Once you are done check the Licensing box in the bottom left. (Note) you can write all the info down on a physical paper or you can open up a notepad :).
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/b252e0bb-262e-4163-bf96-02e7224bb25e"/>
+</p>
+<p>
+Go to the Networking section and make sure the Virtual Network, Subnet, and Public IP says new. Once that is done go to the bottom left and click review and create.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/f49daf98-f266-4215-94c0-a6e3b2cd46cb"/>
+</p>
+<p>
+Once the validation passed is done you can click the create button in the bottom left. 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/5fe32d8e-8983-4864-bb05-12342eea7d1a"/>
+</p>
+<p>
+Then once the deployment is done you will see the green check on the left side.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/5925af95-ec52-441c-b073-711eb4b0131c"/>
+</p>
+<p>
+Next type Virtual Machine in the search bar and you will see that VM1 has been created
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/e455dae0-0bea-4a61-a47f-f53de0340a6a"/>
+</p>
+<p>
+Click the create button and go to Azure Virtual Machine
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/342ad900-a647-440b-8af2-33c835cb8218"/>
+</p>
+<p>
+Under Resource Group type rg-01, under region click US West US 3, under Image click Ubuntu Server x64, and the size under Standard Ec2 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/13d30976-2eca-437d-9e27-b77a5f152e59"/>
+</p>
+<p>
+In Authentication type click password, username we will put labuser, and the password can be the same as VM1
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/d20c370f-92e3-4999-ae1d-a018db07517c"/>
+</p>
+<p>
+Go to the Network section and make sure virtual network says -vnet, subnet says default (XXXX), and the Public IP needs to say new
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/d83ca62b-0f02-42c8-9f26-90b158323646"/>
+</p>
+<p>
+Go to the Review and Create tab and let the Validation passed.
+</p>
+<br />
