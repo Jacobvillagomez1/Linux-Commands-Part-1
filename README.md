@@ -36,25 +36,50 @@ This tutorial outlines the installation of a virtual machine running linux, then
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/5cc90908-9713-4ed1-ad9a-dcbe329cf3d6"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First go to Microsoft Azure Portal and type Resource Group in the search bar.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/e4838746-a16c-46f5-8616-bad1ed73b033"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next for the name type rg-01 and the region under US West US 3
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/264d8682-7477-4dac-a9d4-3d05169cb0c9"/>
+</p>
+<p>
+We can see the Validation passed with the green check above.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/24cfdc99-2638-4508-a263-42243f013411"/>
+</p>
+<p>
+Now type Virtual Machine in the search bar and create a new Virtual Machine.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/edd9813a-2757-4ac9-a731-a46b1e29844e"/>
+</p>
+<p>
+For the Resource Group click the one we created rg-01, for the name we can put VM1, and the region under US West US 3. The Image needs to be under Windows 10 Pro x64 Gen2
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/67fd0d80-40bf-4f61-ac80-f9def2a94b03"/>
+</p>
+<p>
+Now under Size needs to be Standard E2, Username for this example wil be called labuser, the Password needs to be long and unique. Once you are done check the Licensing box in the bottom left. (Note) you can write all the info down on a physical paper or you can open up a notepad :).
 </p>
 <br />
