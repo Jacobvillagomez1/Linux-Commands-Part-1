@@ -271,3 +271,178 @@ Next click confirm and continue
 Next to finish click confirm and start browsing 
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/24780257-fbeb-44d0-87f8-e137e94ba735"/>
+</p>
+<p>
+Next open a new tab and type MobaXterm download in the search bar. Then click the Download button 
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/0d1acb44-8d52-49e3-9c63-d6b050d01c01"/>
+</p>
+<p>
+Go to the Home Edition and click Download Now
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/931ef7bd-3a11-4d20-b492-447325f6c797"/>
+</p>
+<p>
+Next click the MobaXterm home Edition and the current version
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/da66a4a4-5587-475f-8427-eb46500aa735"/>
+</p>
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/045b62d1-d6b8-4493-a1b1-d66dc9e5a6b3"/>
+</p>
+<p>
+Type File Explorer in the search bar in the VM and go to your downloads section. Click the MobaXterm file and Extract All. Then Click Extract
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/c552afbc-ef7d-4af9-b6bb-43ff9c4bec37"/>
+</p>
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/74c5df0f-b10d-41c1-ad5d-334408a381f8"/>
+</p>
+<p>
+Once the extraction is done, double click MobaXterm app, you will see the app load 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/abcd626e-fc70-47e9-84b3-a2f6af246a72"/>
+</p>
+<p>
+Once the software loads you can click the light or dark mode, I'm going to click the dark mode so its easier to see on the screen. Also click Start local terminal
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/aac29b3c-5dd8-4a2c-b74f-c67b0f4328ea"/>
+</p>
+<p>
+Click allow access to let the software load
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/72fcb33c-470a-43fc-a564-7e12e3d3a6db"/>
+</p>
+<p>
+Next go back to Microsoft Azure and copy the public IP of VM2, we are going to log into VM2 through VM1 using MobaXterm
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/a4f9d271-3568-41ce-8300-d04860513998"/>
+</p>
+<p>
+Next type ssh labuser@ public IP of VM2. So to explain this we are using ssh (Secure Shell) to tap into VM2 through VM1. We then type the username of VM2 for this case its called labuser then use the @ symbol which the followwing public ip address of VM2 typed after.
+</p>
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/67a15238-533f-46cc-a173-2c432bf44fd3"/>
+</p>
+<p>
+Once that is done, type your password in and it will not show you just have faith you are typing the password correctly. Then you can click no to save the password
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/5168d8e1-bafe-4a5f-bbcc-fd0057c5e008"/>
+</p>
+<p>
+Next you will know you are logged in with the name labuser@VM2 show like the image above
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/8cbe711f-776a-4c40-a8be-c948d5134572"/>
+</p>
+<p>
+Next type ls in the command line this will list all the files out for this we will have none in the VM. Then you can type pwd for print working directory this will show you the directory 
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/86b2f344-4b0e-49f9-b7d2-abdb4ad70cbc"/>
+</p>
+<p>
+Next type ls -l this will list the total number of files in the directory. You can also type ls -al this will list all the files including the hidden stuff, The hidden files will be in blue
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/49ccefc8-d581-4c2b-8b57-43c09933292b"/>
+</p>
+<p>
+We can next type cd / this puts us in the cd file, next we can type cd/usr/bin this puts us in the user bin file in the directory
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/7e88cdba-36ce-4ad0-9668-ea1294086f16"/>
+</p>
+<p>
+Next type cd .. this will put us one file back and then cd {space} will take us out of the file completely 
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/a1e6dd3a-213c-4a0a-ba1b-eb94a839a244"/>
+</p>
+<p>
+Next to create a txt file use touch. We can make a blank txt file by typing touch blank.txt and then touch hi.txt
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/7f195c9f-b1b2-424d-9071-ab5bd8bbe09c"/>
+</p>
+<p>
+Next to if we type ls again in the command line this time it will list the txt files we just created
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/ef7b3146-9d3e-45c7-8cfe-48eeaa9db59b"/>
+</p>
+<p>
+We can also create multiple text file by tpying touch {and then any words after} for this example type touch every word space out like this. Then type ls again and you will see the words layed out in the directory
+</p>
+<br />
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/09a01976-966c-4317-a58d-944ca850aa91"/>
+</p>
+<p>
+Now to create a txt file in the future type touch -d tomorrow go.txt. To break this down -d is setting the time and then after -d you time how long is is from the current date. For this example we will type tomorrow, then the following txt file we want to create
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/bbacb854-f071-49b6-8139-8cc4a45e8c91"/>
+</p>
+<p>
+Now type ls -l and you will see the go.txt file and the date its set to. Also to exit the directory of VM2 type exit
+</p>
+<br />
+<br />
