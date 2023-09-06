@@ -2,7 +2,9 @@
 <p align="center">
 <img src="https://wallpapers.com/images/featured-full/linux-adreajudr0n7ad5a.jpg"/>
 </p>
-
+<p align="center">
+<img src="https://github.com/Jacobvillagomez1/Linux-Commands-Part-1/assets/143027686/4e436e5f-a61b-482f-8332-27b7f6407bee"/>
+</p>
 <h1>Linux Virtual Machine Installation Configuration Commands</h1>
 This tutorial outlines the installation of a virtual machine running linux, then using commands in linux.<br />
 
