@@ -11,7 +11,7 @@ This tutorial outlines the installation of a virtual machine running linux, then
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: Linux Commands Part1](https://youtu.be/RKCSIhXRWmc)
 
 <h2>Environments and Technologies Used</h2>
 
